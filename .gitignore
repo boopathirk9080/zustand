@@ -5,8 +5,8 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 .DS_Store
-.vscode
 .docz/
 coverage/
 .rpt2_cache/
 .idea
+config.bat
